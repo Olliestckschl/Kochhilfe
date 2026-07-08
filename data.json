@@ -1,31 +1,31 @@
 {
   "recipes": [
     {
-      "id": "r1",
-      "title": "Ramen mit Miso-Brühe",
-      "category": "Japanisch",
-      "desc": "Cremige Miso-Brühe, weiches Ei und knackiger Pak Choi – der Klassiker zum Nachkochen.",
-      "img": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=800&q=70",
-      "url": "https://www.youtube.com/results?search_query=miso+ramen+rezept",
-      "urlLabel": "Video ansehen"
+      "id": "r1783511084413",
+      "title": "Sushi Würzung",
+      "category": "Sushi",
+      "desc": "Die perfekte Würzmischung für Sushi und Reisbowls. (Ab Minute 18)",
+      "img": "https://cdn.1mal1japan.de/wp-content/uploads/2021/02/Sushi-Reis-Rezeptbild-2.webp",
+      "url": "https://www.youtube.com/watch?v=4ek7CNyWC-U&t=534s",
+      "urlLabel": "Zum Rezept"
     },
     {
-      "id": "r2",
-      "title": "Pad Thai",
-      "category": "Thailändisch",
-      "desc": "Gebratene Reisnudeln mit Tamarinde, Erdnüssen und Limette – schnell und unfassbar gut.",
-      "img": "https://images.unsplash.com/photo-1559314809-0f31657def5e?w=800&q=70",
-      "url": "https://www.youtube.com/results?search_query=pad+thai+rezept",
-      "urlLabel": "Video ansehen"
+      "id": "r1783511582418",
+      "title": "Sushi Su (Würzung für Reis und Bowls)",
+      "category": "Japanisch",
+      "desc": "Würzmischung für deine Bowls und Sushi. (Ab Minute 18)",
+      "img": "https://cdn.1mal1japan.de/wp-content/uploads/2021/02/Sushi-Reis-Rezeptbild-2.webp",
+      "url": "https://www.youtube.com/watch?v=4ek7CNyWC-U&t=534s",
+      "urlLabel": "Zum Rezept"
     },
     {
-      "id": "r3",
-      "title": "Gyoza",
+      "id": "r1783511797116",
+      "title": "Sushi Su",
       "category": "Japanisch",
-      "desc": "Knusprig gebratene Teigtaschen mit saftiger Füllung – inklusive Falttechnik.",
-      "img": "https://images.unsplash.com/photo-1496116218417-1a781b1c416c?w=800&q=70",
-      "url": "https://www.youtube.com/results?search_query=gyoza+rezept",
-      "urlLabel": "Video ansehen"
+      "desc": "Würzmischung für Sushireis ODER jede Reisbowl (Ab Minute 18)",
+      "img": "https://cdn.1mal1japan.de/wp-content/uploads/2021/02/Sushi-Reis-Rezeptbild-2.webp",
+      "url": "https://www.youtube.com/watch?v=4ek7CNyWC-U&t=534s",
+      "urlLabel": "Zum Rezept"
     }
   ]
 }
