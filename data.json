@@ -17,6 +17,15 @@
       "img": "https://www.cookinwithmima.com/wp-content/uploads/2019/12/easy-orange-chicken-500x500.jpg",
       "url": "https://www.youtube.com/watch?v=_If7sXU5gr4",
       "urlLabel": "Zum Rezept"
+    },
+    {
+      "id": "r1783512111912",
+      "title": "Sushi Reis",
+      "category": "Japanisch",
+      "desc": "Der perfekte Sushi Reis",
+      "img": "https://res-3.cloudinary.com/jnto/image/upload/w_750,h_1100,c_fill,f_auto,fl_lossy,q_auto/v1/media/filer_public/19/b5/19b5dbad-9101-4509-a71e-e7b110aab939/japanisches_sushi_3369217_l_osnopt",
+      "url": "https://www.youtube.com/watch?v=4ek7CNyWC-U&t=534s",
+      "urlLabel": "Zum Rezept"
     }
   ]
 }
